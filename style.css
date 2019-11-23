@@ -1,0 +1,38 @@
+* {
+    margin: 0rem;
+    padding: 0;
+}
+
+.sidebar {
+    width: 35%;
+    height: 500px;
+    color: white;
+    background-color: #238510;
+}
+
+.main {
+    float: right;
+    width: 65%;
+    height: 500px;
+    color: white;
+    background-color: #f0221b;
+}
+
+.header {
+    width: auto;
+    padding: 30px;
+    padding-top: 0;
+    padding-left: 0;
+    color: white;
+    background-color: rgb(119, 27, 240);
+
+}
+
+.footer {
+    width: auto;
+    padding: 30px;
+    padding-top: 0;
+    padding-left: 0;
+    color: white;
+    background-color: rgb(138, 23, 138);
+}
